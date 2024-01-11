@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demo.PrimeControllerIntegrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-10T20:46:58" hostname="LAPTOP-JCTVJ7JG" time="0.272">
+  <properties/>
+  <testcase name="getPrimes()" classname="com.example.demo.PrimeControllerIntegrationTest" time="0.272"/>
+  <system-out><![CDATA[2024-01-10T20:46:57.632Z  INFO 4072 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.example.demo.PrimeControllerIntegrationTest]: PrimeControllerIntegrationTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-01-10T20:46:57.645Z  INFO 4072 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.example.demo.DemoApplication for test class com.example.demo.PrimeControllerIntegrationTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.1)
+
+2024-01-10T20:46:57.697Z  INFO 4072 --- [    Test worker] c.e.demo.PrimeControllerIntegrationTest  : Starting PrimeControllerIntegrationTest using Java 21.0.1 with PID 4072 (started by showr in C:\Users\showr\Prime Task)
+2024-01-10T20:46:57.697Z  INFO 4072 --- [    Test worker] c.e.demo.PrimeControllerIntegrationTest  : No active profile set, falling back to 1 default profile: "default"
+2024-01-10T20:46:58.222Z  INFO 4072 --- [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-01-10T20:46:58.222Z  INFO 4072 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-01-10T20:46:58.222Z  INFO 4072 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2024-01-10T20:46:58.238Z  INFO 4072 --- [    Test worker] c.e.demo.PrimeControllerIntegrationTest  : Started PrimeControllerIntegrationTest in 0.593 seconds (process running for 6.615)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
